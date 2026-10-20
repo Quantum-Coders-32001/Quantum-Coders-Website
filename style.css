@@ -257,6 +257,8 @@ h1 span {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 274px;
+    height:auto;
 }
 
 .sponsor figure {
